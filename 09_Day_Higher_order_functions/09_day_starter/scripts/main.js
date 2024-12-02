@@ -1,2 +1,5 @@
-console.log(countries)
-alert('Open the console and check if the countries has been loaded')
+const arr = [1, 2, 3];
+
+arr.forEach((element) => console.log(element))
+
+
